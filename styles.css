@@ -1,6 +1,21 @@
 .header{
-    color: blue;
+    color: black;
     font-size: 24px;
     text-align: center;
     margin-top: 20px;
 }
+
+.subHeader{ 
+color: rgb(61, 61, 61);
+text-align: center;
+margin-top: 1px
+}
+
+.bulletpoint{
+color: rgb(0, 0, 0);
+}
+
+.text2{
+background-color: aquamarine;
+}
+
